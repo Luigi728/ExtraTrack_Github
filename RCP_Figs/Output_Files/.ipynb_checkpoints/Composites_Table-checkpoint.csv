@@ -1,0 +1,109 @@
+,Var,Percentile,Control,RCP4.5,RCP8.5
+0,Trop Peak 850hPa Winds,10%,38.473,39.114,41.183
+1,Trop Peak 850hPa Winds,Median,56.55,57.944,59.479
+2,Trop Peak 850hPa Winds,90%,72.015,72.319,76.878
+3,Trop Peak 850hPa Winds,P Val,1.0,0.762,0.347
+0,ET Begin 850hPa Winds,10%,31.105,33.248,31.567
+1,ET Begin 850hPa Winds,Median,48.065,51.208,50.174
+2,ET Begin 850hPa Winds,90%,63.812,68.103,71.389
+3,ET Begin 850hPa Winds,P Val,1.0,0.503,0.375
+0,ET Complete 850hPa Winds,10%,30.174,27.242,31.484
+1,ET Complete 850hPa Winds,Median,38.289,39.343,40.114
+2,ET Complete 850hPa Winds,90%,47.58,48.844,51.401
+3,ET Complete 850hPa Winds,P Val,1.0,0.379,0.162
+0,Trop Peak 18m/s,10%,154.6,216.4,198.4
+1,Trop Peak 18m/s,Median,388.0,447.0,491.0
+2,Trop Peak 18m/s,90%,711.2,854.6,1344.2
+3,Trop Peak 18m/s,P Val,1.0,0.185,0.051
+0,ET Begin 18m/s,10%,192.0,361.9,320.2
+1,ET Begin 18m/s,Median,565.0,692.5,711.0
+2,ET Begin 18m/s,90%,1150.4,1447.3,1501.4
+3,ET Begin 18m/s,P Val,1.0,0.07,0.116
+0,ET Complete 18m/s,10%,400.0,416.7,555.8
+1,ET Complete 18m/s,Median,1005.0,966.5,1093.0
+2,ET Complete 18m/s,90%,1718.2,2084.2,2099.6
+3,ET Complete 18m/s,P Val,1.0,0.685,0.282
+0,Trop Peak 33m/s,10%,13.2,15.0,17.0
+1,Trop Peak 33m/s,Median,59.0,71.0,93.0
+2,Trop Peak 33m/s,90%,153.8,158.5,193.6
+3,Trop Peak 33m/s,P Val,1.0,0.555,0.017
+0,ET Begin 33m/s,10%,0.0,3.5,0.0
+1,ET Begin 33m/s,Median,55.0,82.0,94.0
+2,ET Begin 33m/s,90%,215.6,201.5,270.6
+3,ET Begin 33m/s,P Val,1.0,0.224,0.089
+0,ET Complete 33m/s,10%,0.0,0.0,0.0
+1,ET Complete 33m/s,Median,40.0,48.0,67.0
+2,ET Complete 33m/s,90%,278.2,217.9,337.4
+3,ET Complete 33m/s,P Val,1.0,0.934,0.364
+0,Trop Peak 10mm/hr,10%,9.8,10.1,14.0
+1,Trop Peak 10mm/hr,Median,20.0,25.0,24.0
+2,Trop Peak 10mm/hr,90%,35.6,46.0,42.6
+3,Trop Peak 10mm/hr,P Val,1.0,0.152,0.123
+0,ET Begin 10mm/hr,10%,2.6,7.7,5.8
+1,ET Begin 10mm/hr,Median,17.0,19.0,22.0
+2,ET Begin 10mm/hr,90%,35.6,43.9,50.4
+3,ET Begin 10mm/hr,P Val,1.0,0.175,0.101
+0,ET Complete 10mm/hr,10%,0.0,0.0,2.0
+1,ET Complete 10mm/hr,Median,6.0,5.0,15.0
+2,ET Complete 10mm/hr,90%,18.2,20.3,40.6
+3,ET Complete 10mm/hr,P Val,1.0,0.259,0.0
+0,Trop Peak Max Precip Rate,10%,24.148,22.104,24.342
+1,Trop Peak Max Precip Rate,Median,43.255,47.129,50.762
+2,Trop Peak Max Precip Rate,90%,56.782,67.84,79.282
+3,Trop Peak Max Precip Rate,P Val,1.0,0.074,0.001
+0,ET Begin Max Precip Rate,10%,11.126,16.859,14.961
+1,ET Begin Max Precip Rate,Median,28.266,30.53,33.888
+2,ET Begin Max Precip Rate,90%,51.797,67.312,75.208
+3,ET Begin Max Precip Rate,P Val,1.0,0.255,0.147
+0,ET Complete Max Precip Rate,10%,7.238,7.783,11.32
+1,ET Complete Max Precip Rate,Median,13.907,14.28,20.24
+2,ET Complete Max Precip Rate,90%,21.032,24.512,31.627
+3,ET Complete Max Precip Rate,P Val,1.0,0.422,0.0
+0,Trop Peak Max Precip Water,10%,71.193,69.739,77.095
+1,Trop Peak Max Precip Water,Median,83.417,93.697,103.97
+2,Trop Peak Max Precip Water,90%,91.442,104.026,117.374
+3,Trop Peak Max Precip Water,P Val,1.0,0.0,0.0
+0,ET Begin Max Precip Water,10%,55.037,60.044,63.324
+1,ET Begin Max Precip Water,Median,75.738,80.055,84.421
+2,ET Begin Max Precip Water,90%,86.312,101.438,111.221
+3,ET Begin Max Precip Water,P Val,1.0,0.017,0.0
+0,ET Complete Max Precip Water,10%,44.533,48.415,56.971
+1,ET Complete Max Precip Water,Median,55.743,59.259,67.197
+2,ET Complete Max Precip Water,90%,62.156,69.84,75.222
+3,ET Complete Max Precip Water,P Val,1.0,0.005,0.0
+0,Trop Peak 850hPa Temp,10%,13.806,13.323,15.851
+1,Trop Peak 850hPa Temp,Median,16.741,18.159,19.968
+2,Trop Peak 850hPa Temp,90%,18.45,19.999,21.519
+3,Trop Peak 850hPa Temp,P Val,1.0,0.0,0.0
+0,ET Begin 850hPa Temp,10%,11.338,13.402,14.693
+1,ET Begin 850hPa Temp,Median,15.908,18.044,18.81
+2,ET Begin 850hPa Temp,90%,17.743,21.397,21.385
+3,ET Begin 850hPa Temp,P Val,1.0,0.0,0.0
+0,ET Complete 850hPa Temp,10%,5.498,7.893,11.069
+1,ET Complete 850hPa Temp,Median,12.803,14.745,16.696
+2,ET Complete 850hPa Temp,90%,16.523,18.973,19.912
+3,ET Complete 850hPa Temp,P Val,1.0,0.014,0.0
+0,Trop Peak 500hPa Temp,10%,-9.382,-7.818,-6.978
+1,Trop Peak 500hPa Temp,Median,-6.334,-4.305,-2.253
+2,Trop Peak 500hPa Temp,90%,-4.331,-2.169,-0.184
+3,Trop Peak 500hPa Temp,P Val,1.0,0.0,0.0
+0,ET Begin 500hPa Temp,10%,-11.204,-8.523,-7.571
+1,ET Begin 500hPa Temp,Median,-6.957,-5.608,-3.651
+2,ET Begin 500hPa Temp,90%,-5.026,-2.869,-0.535
+3,ET Begin 500hPa Temp,P Val,1.0,0.0,0.0
+0,ET Complete 500hPa Temp,10%,-16.1,-13.2,-9.318
+1,ET Complete 500hPa Temp,Median,-10.405,-7.991,-5.64
+2,ET Complete 500hPa Temp,90%,-6.042,-4.766,-2.935
+3,ET Complete 500hPa Temp,P Val,1.0,0.0,0.0
+0,Trop Peak 200hPa U,10%,-7.684,-2.503,-1.269
+1,Trop Peak 200hPa U,Median,4.701,9.807,9.22
+2,Trop Peak 200hPa U,90%,21.232,22.351,30.066
+3,Trop Peak 200hPa U,P Val,1.0,0.018,0.027
+0,ET Begin 200hPa U,10%,4.153,7.863,3.262
+1,ET Begin 200hPa U,Median,13.375,14.352,13.851
+2,ET Begin 200hPa U,90%,22.508,23.425,29.237
+3,ET Begin 200hPa U,P Val,1.0,0.093,0.484
+0,ET Complete 200hPa U,10%,6.101,8.706,4.74
+1,ET Complete 200hPa U,Median,21.45,21.273,22.133
+2,ET Complete 200hPa U,90%,38.493,32.606,36.677
+3,ET Complete 200hPa U,P Val,1.0,0.866,0.986
